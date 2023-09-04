@@ -1,0 +1,17 @@
+C:\Users\JERSON\source\repos\Notas\Notas\bin\Debug\net6.0-windows\Notas.exe
+C:\Users\JERSON\source\repos\Notas\Notas\bin\Debug\net6.0-windows\Notas.deps.json
+C:\Users\JERSON\source\repos\Notas\Notas\bin\Debug\net6.0-windows\Notas.runtimeconfig.json
+C:\Users\JERSON\source\repos\Notas\Notas\bin\Debug\net6.0-windows\Notas.dll
+C:\Users\JERSON\source\repos\Notas\Notas\bin\Debug\net6.0-windows\Notas.pdb
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.csproj.AssemblyReference.cache
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.Form1.resources
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.csproj.GenerateResource.cache
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.AssemblyInfoInputs.cache
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.AssemblyInfo.cs
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.csproj.CoreCompileInputs.cache
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.dll
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\refint\Notas.dll
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.pdb
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\Notas.genruntimeconfig.cache
+C:\Users\JERSON\source\repos\Notas\Notas\obj\Debug\net6.0-windows\ref\Notas.dll
